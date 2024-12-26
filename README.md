@@ -1,6 +1,6 @@
 # Flutter Project: Fery Rides
 
-A Flutter project for [brief description of your app, e.g., "managing tasks," "a ride-booking app," etc.].
+This is a Flutter-based mobile application designed for managing ferry ride bookings. The app allows users to view available ferry rides, check their details, and proceed with bookings. It features a clean and modern user interface with gradient backgrounds, sleek buttons, and forms to handle user inputs.
 
 ## Features
 - User Authentication: Secure login system with validation for empty fields, ensuring smooth navigation to the dashboard.
