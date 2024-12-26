@@ -1,4 +1,4 @@
-# try00
+# Fery Rides
 
 A new Flutter project.
 
